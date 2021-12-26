@@ -43,6 +43,9 @@ Running the Client:
 For Non-Persistent Connections: “Connection: close”
 
 For Persistent Connections: “Connection: keep-alive”
+
+#### Compared their performance(Persistent HTTP Vs Non-Persistent HTTP) in terms of time to download by providing the average time to download in a table. The detailed analysis of this can be found in the Report file.
+
 #### Note
 
     Sometimes due to heavy traffic to the website the code might not work in the 1st try and give an error saying “Domain Name doesn’t exist”, or for some url’s “301 Moved Permanently” . 
